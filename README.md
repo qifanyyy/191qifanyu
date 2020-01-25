@@ -38,10 +38,19 @@ Changes to be committed:
 The answer to the fourth git status:
 On branch master
 
-No commits yet
-
+On branch master
 Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
+  (use "git reset HEAD <file>..." to unstage)
 
-    new file:   afile.txt
+	modified:   1.txt
+
+git status:
+On branch master
+nothing to commit, working tree clean
+git log:
+commit dadd23ff780cf9a097c7b4817424916de8704c63 (HEAD -> master)
+Author: qifanyyy <qifany4@uci.edu>
+Date:   Sat Jan 25 03:01:29 2020 -0800
+
+    com
 
