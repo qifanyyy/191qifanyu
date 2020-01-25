@@ -38,12 +38,13 @@ Changes to be committed:
 The answer to the fourth git status:
 On branch master
 
-On branch master
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   1.txt
 
+no changes added to commit (use "git add" and/or "git commit -a")
 git status:
 On branch master
 nothing to commit, working tree clean
