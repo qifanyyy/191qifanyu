@@ -48,9 +48,16 @@ git status:
 On branch master
 nothing to commit, working tree clean
 git log:
-commit dadd23ff780cf9a097c7b4817424916de8704c63 (HEAD -> master)
+commit d991aab74c68532f1b745c5d7827469fbd423720 (HEAD -> master)
+Author: qifanyyy <qifany4@uci.edu>
+Date:   Sat Jan 25 03:04:59 2020 -0800
+
+    1
+
+commit dadd23ff780cf9a097c7b4817424916de8704c63
 Author: qifanyyy <qifany4@uci.edu>
 Date:   Sat Jan 25 03:01:29 2020 -0800
 
     com
+
 
